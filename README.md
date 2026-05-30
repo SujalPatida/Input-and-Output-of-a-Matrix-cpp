@@ -7,7 +7,6 @@ int main() {
     cin >> rows >> cols;
 
     int matrix[rows][cols];
-
     cout << "Enter elements:\n";
     for (int i = 0; i < rows; i++)
         for (int j = 0; j < cols; j++)
