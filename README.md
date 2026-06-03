@@ -3,6 +3,7 @@ using namespace std;
 int main() {
     int rows, cols;
     cout << "Enter rows and columns: ";
+    
     cin >> rows >> cols;
     int matrix[rows][cols];
     cout << "Enter elements:\n";
